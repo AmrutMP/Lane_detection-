@@ -1,7 +1,7 @@
 To understand the concept go step by step
 
 1>Canny Edge Detection
-2>
-3>
-4>
+2>Hough Transform of an Image
+3>Hough Transform of a Video
+4>Hough Transform of a video With ROI
 
